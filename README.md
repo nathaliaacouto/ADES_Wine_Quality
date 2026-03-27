@@ -58,8 +58,8 @@ FEUP – 2025/2026
 ## 👥 Authors
 
 - Ana Carolina Coutinho (up202108685)
-- Beatriz Bernardo (up
-- José Santos (up
-- Nathália Couto (up 
+- Beatriz Bernardo (up202206097)
+- José Santos (up202108673)
+- Nathália Couto (up202510623)
 
 ---
