@@ -29,7 +29,8 @@ The dataset used is **WineQT.csv**, which contains physicochemical attributes of
 - Density  
 - pH  
 - Sulphates  
-- Alcohol  
+- Alcohol
+- Type
 
 ### Target:
 - `quality` → wine quality score  
