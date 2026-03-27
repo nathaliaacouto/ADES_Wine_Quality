@@ -43,6 +43,9 @@ The dataset used is **WineQT.csv**, which contains physicochemical attributes of
 
 ├── README.md
 
+├── datasets
+    ├── winequality-red.csv
+    ├── winequality-white.csv
 
 ---
 
