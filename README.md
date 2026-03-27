@@ -37,15 +37,14 @@ The dataset used is **WineQT.csv**, which contains physicochemical attributes of
 ---
 
 ## Project Structure
-├── WineQT.csv
 
-├── [ADES]_Wine_Project.ipynb
-
-├── README.md
-
-├── datasets
-    ├── winequality-red.csv
-    ├── winequality-white.csv
+- WineQT.csv
+- [ADES]_Wine_Project.ipynb
+- README.md
+- datasets
+  - winequality-red.csv
+  - winequality-white.csv
+    
 
 ---
 
